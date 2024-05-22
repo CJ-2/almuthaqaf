@@ -1,5 +1,5 @@
 # software-engineering-project
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=CJ-2_software-engineering-project)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=CJ-2_almuthaqaf)
 [![CI-CD](https://github.com/CJ-2/almuthaqaf/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/CJ-2/almuthaqaf/actions/workflows/ci-cd.yml)
 
 Project scope:
