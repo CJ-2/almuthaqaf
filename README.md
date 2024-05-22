@@ -1,6 +1,7 @@
 # software-engineering-project
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=CJ-2_software-engineering-project)
 [![CI-CD](https://github.com/CJ-2/almuthaqaf/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/CJ-2/almuthaqaf/actions/workflows/ci-cd.yml)
+
 Project scope:
 The game is going to be called (المثقف) and it will have multiple levels to test the player knowledge from multiple genres and fields (mathematics, geography, etc.…)  and it will have An easy-to-use settings menu for controlling sound and personal progress with a good looking GUI and appealing colors that represent knowledge and learning,  the game will have a dark theme because these days people prefer dark mode over light mode and it is more comfortable for the eye, we did researches on the colors and found out that blue represent knowledge and learning so we choose blue as our logo color, the app will have good visuals and animations, the data base will store the user information and quizzes.
  
