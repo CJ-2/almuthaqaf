@@ -49,8 +49,13 @@ The game will not have specific age audiences and will be informative for many a
 
 # App-preview
  ![IMG_2779](https://github.com/CJ-2/almuthaqaf/assets/56313495/6c2669a4-a87f-4bf4-8ef0-38223afbf38f)
+ 
  ![IMG_2780](https://github.com/CJ-2/almuthaqaf/assets/56313495/abb6aa2c-ba04-4193-943a-5a8ff8a33265)
+ 
  ![IMG_2781](https://github.com/CJ-2/almuthaqaf/assets/56313495/374b9fe0-eb26-4a71-a765-9d8dc1eded74)
+ 
  ![IMG_2782](https://github.com/CJ-2/almuthaqaf/assets/56313495/d5e89cdb-e494-4255-a0c3-09bbccd87d1f)
+ 
  ![IMG_2783](https://github.com/CJ-2/almuthaqaf/assets/56313495/2b669933-50c6-4111-9740-823aa3da4123)
+ 
  ![IMG_2784](https://github.com/CJ-2/almuthaqaf/assets/56313495/bd03b015-82cd-45ae-a514-da2fc4cd3c83)
