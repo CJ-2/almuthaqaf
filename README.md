@@ -48,12 +48,9 @@ The game attracts a lot of youth because of the gamified aspect of the app and t
 The game will not have specific age audiences and will be informative for many age stages.
 
 # App-preview
-![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/c21f6cd3-ed09-4914-baf1-0bdedd6d9c39)
-![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/8b0fe47f-75fd-4037-9f04-6bab65a7dd95)
-![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/9ac33d17-67e5-4052-87f2-befe5290f9b2)
-![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/052b0233-b0c9-46e3-b953-c4d03f7d372f)
-
-![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/8a99d6fb-0ce3-46fd-8dca-ea600a0c2ee6)
-
-![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/4e7e7263-2a00-4227-8a0a-bce2f9101989)
-
+ ![IMG_2779](https://github.com/CJ-2/almuthaqaf/assets/56313495/6c2669a4-a87f-4bf4-8ef0-38223afbf38f)
+ ![IMG_2780](https://github.com/CJ-2/almuthaqaf/assets/56313495/abb6aa2c-ba04-4193-943a-5a8ff8a33265)
+ ![IMG_2781](https://github.com/CJ-2/almuthaqaf/assets/56313495/374b9fe0-eb26-4a71-a765-9d8dc1eded74)
+ ![IMG_2782](https://github.com/CJ-2/almuthaqaf/assets/56313495/d5e89cdb-e494-4255-a0c3-09bbccd87d1f)
+ ![IMG_2783](https://github.com/CJ-2/almuthaqaf/assets/56313495/2b669933-50c6-4111-9740-823aa3da4123)
+ ![IMG_2784](https://github.com/CJ-2/almuthaqaf/assets/56313495/bd03b015-82cd-45ae-a514-da2fc4cd3c83)
